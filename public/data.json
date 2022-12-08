@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Fullstack Python devleoper",
+        "description": "Python for beginners. Best Python course for non cs background students like B Com, BSc Mathematics, BSc Physics.",
+        "kids": false
+    },
+    {
+        "id": 2,
+        "title": "Little Coder Beginner",
+        "description": "Cyber Square Little Coder Beginner course will be a perfect start for kids from the age of 5 to 9 to learn the basics of coding. ",
+        "kids": true
+    },
+    {
+        "id": 3,
+        "title": "Flutter developer",
+        "description": "Flutter for beginners. Best Flutter course for non cs background students like B Com, BSc Mathematics, BSc Physics.",
+        "kids": false
+    }
+]
